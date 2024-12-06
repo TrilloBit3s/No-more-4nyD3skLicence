@@ -1,5 +1,8 @@
 # No-more-4nyD3skLicence
 
+OBS: "Se o uso for contínuo e profissional, o ideal é fazer a aquisição da ferramenta e apoiar os desenvolvedores."
+
+
 Remover aviso de uso profissional do AnyDesk 
 
 ![1](https://github.com/user-attachments/assets/aa85ba9f-3a05-4b1a-b2b5-24422f9ec213)
@@ -30,4 +33,3 @@ Após isso, clique no menu iniciar > procure pelo AnyDesk > botão direito sobre
  
 Agora abra o “Meu Computador” e acesse “C:\Program Files (x86)”. Localize e apague a pasta do AnyDesk por completo. 
 Feito isso, reinicie o computador e reinstale o programa normalmente, abra-o e ele estará funcionando sem restrições. 
-Se o uso for contínuo e profissional, o ideal é fazer a aquisição da ferramenta e apoiar os desenvolvedores. 
