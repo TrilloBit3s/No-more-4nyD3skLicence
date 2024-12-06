@@ -1,4 +1,4 @@
-# No-more-AnyDeskLicence
+# No-more-4nyD3skLicence
 
 Remover aviso de uso profissional do AnyDesk 
 
